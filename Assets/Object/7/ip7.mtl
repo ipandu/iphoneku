@@ -1,0 +1,101 @@
+# Blender MTL File: 'None'
+# Material Count: 10
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\Ilham Pandu Y\Downloads\Bahan\ip7.jpg
+
+newmtl None_Dual_Tone_Flash__1_.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\Ilham Pandu Y\Downloads\Bahan\7\Apple+iPhone+7+(2016)\model\Dual_Tone_Flash__1_.png
+
+newmtl None_Dual_Tone_Flash__2_.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\Ilham Pandu Y\Downloads\Bahan\7\Apple+iPhone+7+(2016)\model\Dual_Tone_Flash__2_.png
+
+newmtl None_NONE
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl None_Speaker.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd C:\Users\Ilham Pandu Y\Downloads\Bahan\7\Apple+iPhone+7+(2016)\model\Speaker.png
+
+newmtl belakang
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Ilham Pandu Y\Downloads\Bahan\iphone-7.jpg
+
+newmtl depan
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Ilham Pandu Y\Downloads\Bahan\iphone-7.jpg
+
+newmtl home
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Ilham Pandu Y\Downloads\Bahan\iphone-7.jpg
+
+newmtl tbl_kanan
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Ilham Pandu Y\Downloads\Bahan\iphone-7.jpg
+
+newmtl tbl_kiri
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Ilham Pandu Y\Downloads\Bahan\iphone-7.jpg

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="iphone6spnew" size="400.000000 452.908752" />
+    <ImageTarget name="iphone6snew" size="400.000000 536.898376" />
+    <ImageTarget name="iphone7pvnew" size="400.000000 298.992615" />
+    <ImageTarget name="iphone6spvidnew" size="400.000000 256.950409" />
+    <ImageTarget name="iphone6svidnew" size="400.000000 278.095245" />
+    <ImageTarget name="iphone6pvidnew" size="400.000000 269.195557" />
+    <ImageTarget name="iphone6vidnew" size="400.000000 283.879974" />
+    <ImageTarget name="iphone6new" size="400.000000 387.701782" />
+    <ImageTarget name="iphone6pnew" size="400.000000 330.513245" />
+    <ImageTarget name="iphone7plus" size="400.000000 386.505005" />
+    <ImageTarget name="iphone7video" size="400.000000 268.149109" />
+    <ImageTarget name="iphone7" size="400.000000 407.472260" />
+    <ImageTarget name="iphone5svideo" size="400.000000 312.490753" />
+    <ImageTarget name="iphone5s" size="400.000000 432.586548" />
+    <ImageTarget name="iphone5video" size="400.000000 288.715393" />
+    <ImageTarget name="iphone5" size="400.000000 519.383606" />
+  </Tracking>
+</QCARConfig>
