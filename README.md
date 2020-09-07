@@ -13,12 +13,12 @@
 * Specifications
 
 ## Screenshots
-![Splash Screen](https://github.com/ipandu/iphoneku/blob/master/Screenshot/1-Splash.png)
-![Loading Screen](https://github.com/ipandu/iphoneku/blob/master/Screenshot/2-Loading.png)
-![Main Menu](https://github.com/ipandu/iphoneku/blob/master/Screenshot/3-Main.png)
-![Help Menu](https://github.com/ipandu/iphoneku/blob/master/Screenshot/4-Help.png)
-![About Menu](https://github.com/ipandu/iphoneku/blob/master/Screenshot/5-About.png)
-![AR Camera](https://github.com/ipandu/iphoneku/blob/master/Screenshot/6-ARCam.png)
-![AR Camera Iphone 5](https://github.com/ipandu/iphoneku/blob/master/Screenshot/7-IP5.png)
-![AR Camera Iphone 5 Specifications](https://github.com/ipandu/iphoneku/blob/master/Screenshot/8-IP5-Spec.png)
-![AR Camera Iphone 5 Specifications 2](https://github.com/ipandu/iphoneku/blob/master/Screenshot/9-IP5-Spec2.png)
+![Splash Screen](https://github.com/ipandu/iphoneku/blob/master/Screenshots/1-Splash.png)
+![Loading Screen](https://github.com/ipandu/iphoneku/blob/master/Screenshots/2-Loading.png)
+![Main Menu](https://github.com/ipandu/iphoneku/blob/master/Screenshots/3-Main.png)
+![Help Menu](https://github.com/ipandu/iphoneku/blob/master/Screenshots/4-Help.png)
+![About Menu](https://github.com/ipandu/iphoneku/blob/master/Screenshots/5-About.png)
+![AR Camera](https://github.com/ipandu/iphoneku/blob/master/Screenshots/6-ARCam.png)
+![AR Camera Iphone 5](https://github.com/ipandu/iphoneku/blob/master/Screenshots/7-IP5.png)
+![AR Camera Iphone 5 Specifications](https://github.com/ipandu/iphoneku/blob/master/Screenshots/8-IP5-Spec.png)
+![AR Camera Iphone 5 Specifications 2](https://github.com/ipandu/iphoneku/blob/master/Screenshots/9-IP5-Spec2.png)
